@@ -2,7 +2,7 @@
 
 A personalized AI fitness companion providing exercise descriptions, tailored workout recommendations, and answers to your fitness-related questions.
 
-## Introduction
+## Introduction:
 
 The Fitness Chatbot leverages a  comprehensive exercise database and the power of large language models (LLMs) to facilitate your fitness journey. Whether you're a beginner or a seasoned athlete, this chatbot has something for you.
 
