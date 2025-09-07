@@ -1,4 +1,4 @@
-# Fitness Chatbot
+# Fitness Chatbot...
 
 A personalized AI fitness companion providing exercise descriptions, tailored workout recommendations, and answers to your fitness-related questions.
 
